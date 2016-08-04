@@ -1,4 +1,15 @@
 # curriculum
+> we are vanguard
+
+an important part of any movement is education. this repo will serve as the
+home of any and all educational materials associated with the tech antifa 
+organization.
+
+if you'd like to request a class or bit of curriculum, please open an 
+issue. if you'd like to contribute a bit of curriculum, please open an
+issue with your ideas and we can discuss an appropriate PR!
+
+### license
 
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
